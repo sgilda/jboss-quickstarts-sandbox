@@ -1,4 +1,4 @@
-jboss-quickstarts-sandbox
-=========================
+jboss-quickstarts-sandbox: Quickstarts sandbox
+==============================================
 
-Quickstarts sandbox
+

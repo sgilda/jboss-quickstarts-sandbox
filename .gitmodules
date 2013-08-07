@@ -1,0 +1,9 @@
+[submodule "brms-quickstarts/brms-rewards"]
+	path = brms-quickstarts/brms-rewards
+	url = git@github.com:eschabell/brms-rewards-demo.git
+[submodule "brms-quickstarts/brms-coolstore"]
+	path = brms-quickstarts/brms-coolstore
+	url = git@github.com:eschabell/brms-coolstore-demo.git
+[submodule "brms-quickstarts/brms-customer-evaluation"]
+	path = brms-quickstarts/brms-customer-evaluation
+	url = git@github.com:eschabell/brms-customer-evaluation-demo.git
